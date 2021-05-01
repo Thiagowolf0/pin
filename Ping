@@ -1,0 +1,790 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="☆LIST THE WOLF☆" tvg-name="☆LIST THE WOLF☆" tvg-logo="https://docs.google.com/uc?export=download&id=1ntzHd3l8rbkNzRRJd0fOAvRkuJbpmFwP"group-title="☆☆☆BEM VINDO☆☆☆ ", BEM VINDO A ALCATEIA ●☆THE WOLF☆●
+https://docs.google.com/uc?export=download&id=1nSc7TFPd2RgYnESmPClMHypdo1S7kt0T
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/Brasil/1200px-CNN_Brasil.png" group-title"Noticias" ,CNN BR
+http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/Brasil/newss.png" group-title="Noticias" ,GLOBO NEWS
+http://50.7.34.155:2200/BR/Globo_News_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="Variedade" ,Canal br
+http://50.7.34.155:2200/BR/Canal_Brasil_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="Variedade" ,Arte1 HD
+http://50.7.34.155:2200/BR/Arte_1_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="Filmes, Series" ,A&E HD
+http://50.7.34.155:2200/BR/AE_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/animalplanet.gif" group-title="Documentario" ,Animal Planet
+http://50.7.34.155:2200/BR/Animal_Planet_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/11/amc-logo.jpg?crop=151px%2C97px%2C841px%2C468px&resize=681%2C383" group-title="Filmes, Series" ,AMC
+http://50.7.34.155:2200/BR/axnhd-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/axn.gif" group-title="Filmes, Series" ,AXN HD
+http://50.7.34.155:2200/BR/axnhd-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.bldn.vip/logos/variedades/curta.png" group-title="Variedade" ,Curta!
+http://50.7.34.155:2200/BR/Curta_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Infantil" ,Babytv
+http://50.7.34.155:2200/BR/babytv-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://minutoligado.com.br/wp-content/uploads/2012/07/logo-bandsports.jpg" group-title="Esporte" ,Band Sport
+http://50.7.34.155:2200/BR/Band_Sports_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/f/csm_7017-1071_import_752dfa277a.png" group-title="Noticias" ,Band News
+http://50.7.34.155:2200/BR/Band_News_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d995d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="Musica" ,Bis
+http://50.7.34.155:2200/BR/BIS_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Infantil ,Boomerang
+http://50.7.34.155:2200/BR/Boomerang_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.favpng.com/24/5/11/cartoon-network-logo-television-channel-png-favpng-kMxuNTDnB8pDU4KktFia6FCqU.jpg" group-title="Infantil" ,Cartoon Network
+http://50.7.34.155:2200/BR/Cartoon_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cinemax.gif" group-title="Filmes, Series" ,Cinemax
+http://50.7.34.155:2200/BR/Cinemax_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3dzyEeD" group-title="Noticias" ,CNN Brasil 
+http://46.105.112.116/?watch=BR/CNN_Brasil_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3dzyEeD" group-title="Noticias" ,CNN Brasil 
+http://46.105.112.116/?watch=BR/CNN_Brasil_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Esporte" ,COMBATE 4k
+http://50.7.34.155:2200/BR/Combate_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Esporte" ,COMBATE 4k
+http://50.7.34.155:2200/BR/Combate_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURZHEqQjvdSW5gqCkbtNhw8o2Z16cuyxy7cjwuccG8KyiCCvBCA&s" group-title="Variedade" ,COMEDY CENTRAL
+http://50.7.34.155:2200/BR/Comedy_Central_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.bldn.vip/logos/variedades/curta.png" group-title="Variedade" ,Curta!
+http://50.7.34.155:2200/BR/Curta_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="Documentario" ,H&H
+http://50.7.34.155:2200/BR/The_History_Channel_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="Documentario" ,Discovery Channel
+http://50.7.34.155:2200/BR/Discovery_Channel_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Documentario" ,Discovery Turbo
+http://50.7.34.155:2200/BR/Discovery_Turbo_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/discoverytheater.gif" group-title="Documentario" ,Discovery Theter
+http://50.7.34.155:2200/BR/Discovery_Theater_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://grupobrtv.com/logos/idinvestigacaodiscoveryhd.png" group-title="Documentario" ,Discovery ID SD
+http://50.7.34.155:2200/BR/ID_-_Investi_Discovery_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Documentario" , Discovery HGTV
+http://50.7.34.155:2200/BR/HGTV_HD_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180514/vuw/kisspng-discovery-science-television-channel-discovery-cha-5af9a924f36451.22937415263112049969.jpg" group-title="Documentario" ,Dicovery Science
+http://50.7.34.155:2200/BR/Discovery_Science_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="Documentario" ,Discovery world
+http://50.7.34.155:2200/BR/Discovery_World_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/40/b9/22/40b922038f0b46aac601554c22cb47ca.png" group-title="Infantil" , Discovery Kids
+http://50.7.34.155:2200/BR/Discovery_Ks_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLv3UJ3XedXT1nLSWslnjFrz-B5igfbaPIiA&usqp=CAU" group-title="Infantil" ,Disney Channel
+http://50.7.34.155:2200/BR/Disney_Channel_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/37/794/397/disney-junior-the-walt-disney-company-logo-disney-channel-television-channel-scratch.jpg" group-title="Infantil" ,Disney Junior
+http://50.7.34.155:2200/BR/disneyjunior-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="Infantil" ,Disney XD
+http://50.7.34.155:2200/BR/disneyxd-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="Esporte" ,E!
+http://50.7.34.155:2200/BR/E_HDbr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/espn.gif" group-title="Esporte" ,Espn
+http://50.7.34.155:2200/BR/ESPN_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxRMV2G1q3dXWyhbC_BpMpCWMkfQAigmoiuQ&usqp=CAU" group-title="Esporte" ,Espn 2
+http://50.7.34.155:2200/BR/ESPN2_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/espnextra.gif" group-title="Esporte" ,Espn Brasil
+http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/espnextra.gif" group-title="Esporte" ,Espn Extra
+http://50.7.34.155:2200/BR/espnextra-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/fish-tv.png" group-title="Variedade" ,Fish Tv
+http://50.7.34.155:2200/BR/fishtvhd-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Variedade" ,Food Network
+http://50.7.34.155:2200/BR/Food_Network_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png" group-title="Filmes, Series" ,FOX CHANNEL
+http://50.7.34.155:2200/BR/Fox_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/foxpremium1.gif" group-title="Filmes, Series" ,FOX Premium 1 4k
+http://50.7.34.155:2200/BR/Fox_Premium_1_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/foxpremium2.gif" group-title="Filmes, Series" ,FOX Premium 2
+http://50.7.34.155:2200/BR/Fox_Premium_2_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/foxsports.gif" group-title="Esporte" ,FOX SPORTS
+http://50.7.34.155:2200/BR/Fox_Sports_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/foxsports2.gif" group-title="Esporte" ,FOX SPORTS 2
+http://50.7.34.155:2200/BR/Fox_Sports_2_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/fx.gif" group-title="Filmes, Series" ,FX
+http://50.7.34.155:2200/BR/FX_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="Infantil" ,Globinho 4K
+http://50.7.34.155:2200/BR/GLOOBINHO_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais Globo" ,Globo Mato Grosso 
+http://50.7.34.155:2200/BR/Globo_TV_Gazeta_Sul_ES_HD_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais Globo" ,Globo Capinas 
+http://50.7.34.155:2200/BR/GLOBO_RIBEIRAO_PRETO_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais Globo" ,Globo Minas 
+http://50.7.34.155:2200/BR/Globo_HD_Minas-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais Globo" ,Globo Minas
+http://50.7.34.155:2200/BR/Globo_HD_Minas-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Globo" ,Globo Amazonas
+http://50.7.34.155:2200/BR/GLOBO_AMAZONAS_SD_br/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Globo" ,Globo  Mranhão
+http://50.7.34.155:2200/BR/GLOBO_ASA_BRANCA_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais Globo" ,Globo RBS *
+http://50.7.34.155:2200/BR/GLOBO_RBS_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Globo" ,Globo  Nordeste 
+http://50.7.34.155:2200/BR/Globo_Nordeste_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais Globo" ,Globo RJ 
+http://50.7.34.155:2200/BR/Globo_HD_RJ-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais Globo" ,Globo Brasilia
+http://50.7.34.155:2200/BR/Globo_Brasilia_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais Globo" ,Globo Sergipe
+http://50.7.34.155:2200/BR/GLOBO_SERGIPE_HD_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais Globo" ,Globo Fortaleza
+http://50.7.34.155:2200/BR/TV_Verdes_Mares_HD_Fortaleza-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Globo" ,Globo  Ribeirão 
+http://50.7.34.155:2200/BR/GLOBO_RIBEIRAO_PRETO_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais Globo" ,Globo SP
+http://50.7.34.155:2200/BR/Globo_HD_SP-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFOlJL7MDwiJ33RfG1W6MXSZFj4MRy2gnnbA&usqp=CAU" group-title="Aberto" ,TV Diario
+http://50.7.34.155:2200/BR/TV_Diario_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais Globo" ,Globo RJ
+http://50.7.34.155:2200/BR/Globo_HD_RJ-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais Globo" ,Globo Vanguarda
+http://50.7.34.155:2200/BR/Globo_TV_Vanguarda_Taubate_HD_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Variedade" ,Gnt S
+http://50.7.34.155:2200/BR/GNT_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Infantil" ,Gloob
+http://50.7.34.155:2200/BR/Gloob_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/hbo.gif" group-title="Canais HBO" ,HBO
+http://50.7.34.155:2200/BR/HBO_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/hbo.gif" group-title="Canais HBO" ,HBO sd
+http://50.7.34.155:2200/BR/HBO_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/hbo2.gif" group-title="Canais HBO" ,HBO 2
+http://50.7.34.155:2200/BR/HBO_2_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/hbo2.gif" group-title="Canais HBO" ,HBO 2
+http://50.7.34.155:2200/BR/HBO_2_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/hbofamily.gif" group-title="Canais HBO" ,HBO Family SD
+http://50.7.34.155:2200/BR/HBO_Family_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/hbofamily.gif" group-title="Canais HBO" ,HBO family
+http://50.7.34.155:2200/BR/HBO_Family_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/hboplus.gif" group-title="Canais HBO" ,HBO+
+http://50.7.34.155:2200/BR/HBOPlusBrasil.br-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/hboplus.gif" group-title="Canais HBO" ,HBO+ 4k
+http://50.7.34.155:2200/BR/HBOPlusBrasil.br-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/hbosignature.gif" group-title="Canais HBO" ,HBO SIGNATURE
+http://50.7.34.155:2200/BR/HBO_Signature_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/hbosignature.gif" group-title="Canais HBO" ,HBO SIGNATURE
+http://50.7.34.155:2200/BR/HBO_Signature_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lineup.tv.br/canais/hbomundi.gif" group-title="Canais HBO" ,HBO MUNDI
+http://50.7.34.155:2200/BR/HBO_MUNDI_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lineup.tv.br/canais/hbomundi.gif" group-title="Canais HBO" ,HBO MUNDI
+http://50.7.34.155:2200/BR/HBO_MUNDI_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lineup.tv.br/canais/hboxtreme.gif" group-title="Canais HBO" ,HBO XTREME
+http://50.7.34.155:2200/BR/HBO_Xtreme_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lineup.tv.br/canais/hboxtreme.gif" group-title="Canais HBO" ,HBO Xtreme
+http://50.7.34.155:2200/BR/HBO_Xtreme_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lineup.tv.br/canais/hbopop.gif" group-title="Canais HBO" ,HBO POP
+http://50.7.34.155:2200/BR/HBO_POP_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lineup.tv.br/canais/hbopop.gif" group-title="Canais HBO" ,HBO POP
+http://50.7.34.155:2200/BR/HBO_POP_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017.png" group-title="Filmes, Series" ,Life Time
+http://50.7.34.155:2200/BR/Lifetime_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/669/123/672/history-television-channel-television-show-logo-id-channel-logo.jpg" group-title="Documentario" , HISTORY
+http://50.7.34.155:2200/BR/The_History_Channel_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5b/Logo_gshd.png" group-title="Variedade" ,Mais Globo Sat
+http://50.7.34.155:2200/BR/Mais_Globosat_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MTV_Logo_2010.svg" group-title="Musica" ,Mtv
+http://50.7.34.155:2200/BR/MTV_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/megapix.gif" group-title="Filmes, Series" ,MEGAPIX 4k
+http://50.7.34.155:2200/BR/Megapix_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Musica" ,Multshow
+http://50.7.34.155:2200/BR/Multishow_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png" group-title="Musica" ,Prime Box Brasil
+http://50.7.34.155:2200/BR/PrimeBoxBrasil.br-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Documentario" ,National Geographic
+http://50.7.34.155:2200/BR/National_Geographics_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/fx.gif" group-title="Filmes, Series" ,FX 
+http://50.7.34.155:2200/BR/FX_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Documentario" , Nat Geo Wild
+http://50.7.34.155:2200/BR/Nat_Geo_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="Infantil" ,Nat Geo Kids
+http://50.7.34.155:2200/BR/NatGeoKidsHD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="Infantil" ,Nat Geo Kids
+http://50.7.34.155:2200/BR/NatGeoKidsHD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/NICKELODEON_Logo.png" group-title="Infantil" ,nick
+http://50.7.34.155:2200/BR/Nickelodeon_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/NICKELODEON_Logo.png" group-title="Infantil" ,nick
+http://50.7.34.155:2200/BR/Nickelodeon_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantil" ,Nick Junior
+http://50.7.34.155:2200/BR/Nick_Jr_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantil" ,Nick Jr
+http://50.7.34.155:2200/BR/Nick_Jr_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjaDVUNssRGDJdTeAdgFVl6qcfeUV5HV78i_T48gw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedade" ,Off
+http://50.7.34.155:2200/BR/OFF_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/paramount.gif" group-title="Filmes, Series" ,Paramount 
+http://50.7.34.155:2200/BR/Paramount_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/premiere.gif" group-title="Canais Premier" ,Premier Clubes 4k
+http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/premiere.gif" group-title="Canais Premier" ,Premier Clubes 
+http://50.7.34.155:2200/BR/Premiere_1_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere.png" group-title="Canais Premier" ,Premier 2
+http://50.7.34.155:2200/BR/Premiere_2_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere.png" group-title="Canais Premier" ,Premier 2
+http://50.7.34.155:2200/BR/Premiere_2_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere.png" group-title="Canais Premier" ,Premier 3
+http://50.7.34.155:2200/BR/Premiere_3_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere.png" group-title="Canais Premier" ,Premier 3
+http://50.7.34.155:2200/BR/Premiere_3_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere.png" group-title="Canais Premier" ,Premier 4
+http://50.7.34.155:2200/BR/Premiere_4_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere.png" group-title="Canais Premier" ,Premier 4
+http://50.7.34.155:2200/BR/Premiere_4_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere.png" group-title="Canais Premier" ,Premier 5
+http://50.7.34.155:2200/BR/Premiere_5_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere.png" group-title="Canais Premier" ,Premier 6
+http://50.7.34.155:2200/BR/Premiere_6_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere.png" group-title="Canais Premier" ,Premier 6
+http://50.7.34.155:2200/BR/Premiere_6_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere.png" group-title="Canais Premier" ,Premier 7
+http://50.7.34.155:2200/BR/Premiere_7_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere.png" group-title="Canais Premier" ,Premier 7
+http://50.7.34.155:2200/BR/Premiere_7_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere.png" group-title="Canais Premier" ,Premieres 8
+http://50.7.34.155:2200/BR/Premiere_8_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2016/11/logo_prime01-300x100.png" group-title="Musica" ,PRIME Box Brasil
+http://50.7.34.155:2200/BR/Prime_Box_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/f/csm_7017-1071_import_752dfa277a.png" group-title="Noticias" ,RECORD NEWS
+http://50.7.34.155:2200/BR/recordnews-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Aberto" ,Record Goias 
+http://50.7.34.155:2200/BR/RECORD_GOIAS_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Aberto" ,Record SP
+http://50.7.34.155:2200/BR/Record_SP_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Aberto" ,Record 
+http://50.7.34.155:2200/BR/RECORDTV_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Aberto" ,Sbt
+http://50.7.34.155:2200/BR/SBT_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/space.gif" group-title="Filmes, Series" ,SPACE
+http://50.7.34.155:2200/BR/Space_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/space.gif" group-title="Filmes, Series" ,SPACE
+http://50.7.34.155:2200/BR/Space_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/sportv.gif" group-title="Esporte" ,SporTV
+http://50.7.34.155:2200/BR/Sportv_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/sportv.gif" group-title="Esporte" ,SporTV
+http://50.7.34.155:2200/BR/Sportv_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="Esporte" ,SporTV 2
+http://50.7.34.155:2200/BR/Sportv_2_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="Esporte" ,SporTV2
+http://50.7.34.155:2200/BR/Sportv_2_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="Esporte" ,SporTV 3
+http://50.7.34.155:2200/BR/Sportv_3_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="Esporte" ,SporTV 3
+http://50.7.34.155:2200/BR/Sportv_3_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/sony.gif" group-title="Filmes, Series" ,SONY
+http://50.7.34.155:2200/BR/Canal_Sony_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tbs.gif" group-title="Filmes, Series" ,TBS 4k
+http://50.7.34.155:2200/BR/TBS_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://grupobrtv.com/logos/tcm.png" group-title="Filmes, Series" ,TCM 
+http://50.7.34.155:2200/BR/tcm-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/telecineaction.gif" group-title="Canais Telecine" ,TELE CINE Action 4k
+http://50.7.34.155:2200/BR/Telecine_Action_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/telecineaction.gif" group-title="Canais Telecine" ,TELECINE action
+http://50.7.34.155:2200/BR/Telecine_Action_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/telecinecult.gif" group-title="Canais Telecine" ,TELECINE CULT
+http://50.7.34.155:2200/BR/Telecine_Cult_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/telecinecult.gif" group-title="Canais Telecine" ,TELECINE CULT 4k
+http://50.7.34.155:2200/BR/Telecine_Cult_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/telecinefun.gif" group-title="Canais Telecine" ,TELECINE FUN
+http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/telecinefun.gif" group-title="Canais Telecine" ,TELECINE FUN
+http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/telecinepipoca.gif" group-title="Canais Telecine" ,TELECINE Pipoca 4k
+http://50.7.34.155:2200/BR/Telecine_Pipoca_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/telecinepipoca.gif" group-title="Canais Telecine" ,TELECINE Pipoca
+http://50.7.34.155:2200/BR/Telecine_Pipoca_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/telecinepremium.gif" group-title="Canais Telecine" ,TELECINE Premium
+http://50.7.34.155:2200/BR/Telecine_Premium_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/telecinepremium.gif" group-title="Canais Telecine" ,TELECINE Premium
+http://50.7.34.155:2200/BR/Telecine_Premium_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/telecinetouch.gif" group-title="Canais Telecine" ,TELECINE Touch 4k
+http://50.7.34.155:2200/BR/Telecine_Touch_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/telecinetouch.gif" group-title="Canais Telecine" ,TELECINE Touch
+http://50.7.34.155:2200/BR/Telecine_Touch_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180723/fht/kisspng-tlc-discovery-channel-universal-channel-animal-pla-tlc-television-5b5610e6931774.9224127015323670786025.jpg" group-title="Filmes, Series" ,TLC 4k
+http://50.7.34.155:2200/BR/TLC_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180723/fht/kisspng-tlc-discovery-channel-universal-channel-animal-pla-tlc-television-5b5610e6931774.9224127015323670786025.jpg" group-title="Filmes, Series" ,TLC
+http://50.7.34.155:2200/BR/TLC_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tnt.gif" group-title="Filmes, Series" ,TNT 
+http://50.7.34.155:2200/BR/TNT_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tnt.gif" group-title="Filmes, Series" ,TNT
+http://50.7.34.155:2200/BR/TNT_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tntseries.gif" group-title="Filmes, Series" ,TNT SÉRIES
+http://50.7.34.155:2200/BR/TNT_Series_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tntseries.gif" group-title="Filmes, Series" ,TNT SÉRIES
+http://50.7.34.155:2200/BR/TNT_Series_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/298/613/303/tv-channel-icons-pack-tooncast-black-png-icon-thumbnail.jpg" group-title="Infantil" ,Tooncast 4k
+http://50.7.34.155:2200/BR/Tooncast-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/298/613/303/tv-channel-icons-pack-tooncast-black-png-icon-thumbnail.jpg" group-title="Infantil" ,Tooncast 
+http://50.7.34.155:2200/BR/Tooncast-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/200px-Logo_2015_-_TV_Novo_Tempo.png" group-title="Aberto" ,Tv Novo Tempo
+http://50.7.34.155:2200/BR/tvnovotempo-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2019/11/warnerbros-1280x720.jpg" group-title="Filmes, Series" ,Warnner Bros
+http://50.7.34.155:2200/BR/Warner_Channel_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2019/11/warnerbros-1280x720.jpg" group-title="Filmes, Series" ,Warnner Bros
+http://50.7.34.155:2200/BR/Warner_Channel_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png/revision/latest/scale-to-width-down/340?cb=20160511061708" group-title="Infantil" ,Tv rá tim bum
+http://50.7.34.155:2200/BR/TV_RA_Tim_Bum_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Variedade" ,True TV
+http://50.7.34.155:2200/BR/TRU_TV_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYYp-alwaKorIpmI87fF3lOoycdo-L85RrIA&usqp=CAU" group-title="Aberto" , TV Aparecida
+http://50.7.34.155:2200/BR/tvaparecida-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Infantil" ,Zoomoo 
+http://50.7.34.155:2200/BR/ZooMoo_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Viva_%28UK_%26_Ireland%29.svg/1200px-Viva_%28UK_%26_Ireland%29.svg.png" group-title="Variedade" ,VIVA
+http://50.7.34.155:2200/BR/Viva_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/Gazeta.PNG" group-title="Aberto" ,Cultura
+http://50.7.34.155:2200/BR/cultura-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/polishoptv.png" group-title="Aberto" ,Polishoop
+http://50.7.34.155:2200/BR/polishoptv-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/canalruralb.png" group-title="Aberto" ,Canal rural
+http://50.7.34.155:2200/BR/canalrural-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/Gazeta.PNG" group-title="Aberto" ,Gazeta
+http://50.7.34.155:2200/BR/Gazeta-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/bandhdtv.png" group-title="Aberto" ,Band
+http://50.7.34.155:2200/BR/Band_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/bandhdtv.png" group-title="Aberto" ,Band Campinas
+http://50.7.34.155:2200/BR/Band_Campinas_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/bandhdtv.png" group-title="Aberto" ,Band Nordeste
+http://50.7.34.155:2200/BR/BAND_NORDESTE_-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/Brasil/Universal_TV_HD_Logo_2018.png" group-title="Filmes, Series" ,Universal
+http://50.7.34.155:2200/BR/Universal_TV_HD-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="BBB" ,BBB
+http://50.7.34.155:2200/BR/bbb21-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="BBB", BBB 2
+http://50.7.34.155:2200/BR/BBB21_1-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="BBB" , BBB 3
+http://50.7.34.155:2200/BR/BBB21_2-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="BBB" ,BBB 4
+http://50.7.34.155:2200/BR/BBB21_3-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/action.png" group-title="24 hrs Acao" ,Acao
+http://185.246.210.38:2200/VOD/redaction-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/action.png" group-title="24 hrs Acao" ,Acao 2
+http://185.246.210.38:2200/VOD/redaction2-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/action.png" group-title="24 hrs Acao" ,Acao 3
+http://185.246.210.38:2200/VOD/redaction3-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/action.png" group-title="24 hrs Acao" ,Acao 5
+http://185.246.210.38:2200/VOD/redaction4-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/action.png" group-title="24 hrs Acao" ,Acao 5
+http://185.246.210.38:2200/VOD/redaction5-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/action.png" group-title="24 hrs Acao" ,Acao 6
+http://185.246.210.38:2200/VOD/redaction6-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/action.png" group-title="24 hrs Acao" ,Acao 7
+http://185.246.210.38:2200/VOD/redaction7-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/action.png" group-title="24 hrs Acao" ,Acao 8
+http://185.246.210.38:2200/VOD/redaction8-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/action.png" group-title="24 hrs Acao" ,Acao 9
+http://185.246.210.38:2200/VOD/redaction9-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/action.png" group-title="24 hrs Acao" ,Acao 10
+http://185.246.210.38:2200/VOD/redaction10-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/crime.png" group-title="24 hrs Crimes, Policial" ,Crimes, Policial
+http://185.246.210.38:2200/VOD/redcrime-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/crime.png" group-title="24 hrs Crimes, Policial" ,Crimes, Policial 2
+http://185.246.210.38:2200/VOD/redcrime2-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/crime.png" group-title="24 hrs Crimes, Policial" ,Crimes, Policial 3
+http://185.246.210.38:2200/VOD/redcrime3-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/crime.png" group-title="24 hrs Crimes, Policial" ,Crimes, Policial 4
+http://185.246.210.38:2200/VOD/redcrime4-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/crime.png" group-title="24 hrs Crimes, Policial" ,Crimes, Policial 5
+http://185.246.210.38:2200/VOD/redcrime5-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/crime.png" group-title="24 hrs Crimes, Policial" ,Crimes, Policial 6
+http://185.246.210.38:2200/VOD/redcrime6-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/crime.png" group-title="24 hrs Crimes, Policial" ,Crimes, Policial 7
+http://185.246.210.38:2200/VOD/redcrime7-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/crime.png" group-title="24 hrs Crimes, Policial" ,Crimes, Policial 8
+http://185.246.210.38:2200/VOD/redcrime8-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/crime.png" group-title="24 hrs Crimes, Policial" ,Crimes, Policial 9
+http://185.246.210.38:2200/VOD/redcrime9-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/crime.png" group-title="24 hrs Crimes, Policial" ,Crimes, Policial 10
+http://185.246.210.38:2200/VOD/redcrime10-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/comedy.png" group-title="24 hrs Comedia" ,Comedia
+http://185.246.210.38:2200/VOD/redcomedy-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/comedy.png" group-title="24 hrs Comedia" ,Comedia 2
+http://185.246.210.38:2200/VOD/redcomedy2-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/comedy.png" group-title="24 hrs Comedia" ,Comedia 3
+http://185.246.210.38:2200/VOD/redcomedy3-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/comedy.png" group-title="24 hrs Comedia" ,Comedia 4
+http://185.246.210.38:2200/VOD/redcomedy4-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/comedy.png" group-title="24 hrs Comedia" ,Comedia 5
+http://185.246.210.38:2200/VOD/redcomedy5-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/comedy.png" group-title="24 hrs Comedia" ,Comedia 6
+http://185.246.210.38:2200/VOD/redcomedy6-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/comedy.png" group-title="24 hrs Comedia" ,Comedia 7
+http://185.246.210.38:2200/VOD/redcomedy7-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/comedy.png" group-title="24 hrs Comedia" ,Comedia 8
+http://185.246.210.38:2200/VOD/redcomedy8-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/comedy.png" group-title="24 hrs Comedia" ,Comedia 9
+http://185.246.210.38:2200/VOD/redcomedy9-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/comedy.png" group-title="24 hrs Comedia" ,Comedia 10
+http://185.246.210.38:2200/VOD/redcomedy10-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/drama.png" group-title="24 hrs Drama" ,Drama
+http://185.246.210.38:2200/VOD/reddrama-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/drama.png" group-title="24 hrs Drama" ,Drama 2
+http://185.246.210.38:2200/VOD/reddrama2-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/drama.png" group-title="24 hrs Drama" ,Drama 3
+http://185.246.210.38:2200/VOD/reddrama3-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/drama.png" group-title="24 hrs Drama" ,Drama 4
+http://185.246.210.38:2200/VOD/reddrama4-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/drama.png" group-title="24 hrs Drama" ,Drama 5
+http://185.246.210.38:2200/VOD/reddrama5-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/drama.png" group-title="24 hrs Drama" ,Drama 6
+http://185.246.210.38:2200/VOD/reddrama6-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/drama.png" group-title="24 hrs Drama" ,Drama 7
+http://185.246.210.38:2200/VOD/reddrama7-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/drama.png" group-title="24 hrs Drama" ,Drama 8
+http://185.246.210.38:2200/VOD/reddrama8-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/drama.png" group-title="24 hrs Drama" ,Drama 9
+http://185.246.210.38:2200/VOD/reddrama9-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/drama.png" group-title="24 hrs Drama" ,Drama 10
+http://185.246.210.38:2200/VOD/reddrama10-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/horror-thriller.png" group-title="24 hrs Terror" ,Terror
+http://185.246.210.38:2200/VOD/redhorrorthriller-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/horror-thriller.png" group-title="24 hrs Terror" ,Terror 2
+http://185.246.210.38:2200/VOD/redhorrorthriller2-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/horror-thriller.png" group-title="24 hrs Terror" ,Terror 3
+http://185.246.210.38:2200/VOD/redhorrorthriller3-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/horror-thriller.png" group-title="24 hrs Terror" ,Terror 4
+http://185.246.210.38:2200/VOD/redhorrorthriller4-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/horror-thriller.png" group-title="24 hrs Terror" ,Terror 5
+http://185.246.210.38:2200/VOD/redhorrorthriller5-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/horror-thriller.png" group-title="24 hrs Terror" ,Terror 6
+http://185.246.210.38:2200/VOD/redhorrorthriller6-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/horror-thriller.png" group-title="24 hrs Terror" ,Terror 7
+http://185.246.210.38:2200/VOD/redhorrorthriller7-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/horror-thriller.png" group-title="24 hrs Terror" ,Terror 8
+http://185.246.210.38:2200/VOD/redhorrorthriller8-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/horror-thriller.png" group-title="24 hrs Terror" ,Terror 9
+http://185.246.210.38:2200/VOD/redhorrorthriller9-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/horror-thriller.png" group-title="24 hrs Terror" ,Terror 10
+http://185.246.210.38:2200/VOD/redhorrorthriller10-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/sci-fi.png" group-title="24 hrs Ficçao Cientifica" ,Ficçao Cientifica
+http://185.246.210.38:2200/VOD/redscifi-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/sci-fi.png" group-title="24 hrs Ficçao Cientifica" ,Ficçao Cientifica 2
+http://185.246.210.38:2200/VOD/redscifi2-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/sci-fi.png" group-title="24 hrs Ficçao Cientifica" ,Ficçao Cientifica 3
+http://185.246.210.38:2200/VOD/redscifi3-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/sci-fi.png" group-title="24 hrs Ficçao Cientifica" ,Ficçao Cientifica 4
+http://185.246.210.38:2200/VOD/redscifi4-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/sci-fi.png" group-title="24 hrs Ficçao Cientifica" ,Ficçao Cientifica 5
+http://185.246.210.38:2200/VOD/redscifi5-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/sci-fi.png" group-title="24 hrs Ficçao Cientifica" ,Ficçao Cientifica 6
+http://185.246.210.38:2200/VOD/redscifi6-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/sci-fi.png" group-title="24 hrs Ficçao Cientifica" ,Ficçao Cientifica 7
+http://185.246.210.38:2200/VOD/redscifi7-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/sci-fi.png" group-title="24 hrs Ficçao Cientifica" ,Ficçao Cientifica 8
+http://185.246.210.38:2200/VOD/redscifi8-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/sci-fi.png" group-title="24 hrs Ficçao Cientifica" ,Ficçao Cientifica 9
+http://185.246.210.38:2200/VOD/redscifi9-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/sci-fi.png" group-title="24 hrs Ficçao Cientifica" ,Ficçao Cientifica 10
+http://185.246.210.38:2200/VOD/redscifi10-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/adventure.png" group-title="24 hrs Aventura" ,Aventura
+http://185.246.210.38:2200/VOD/redadventure-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/adventure.png" group-title="24 hrs Aventura" ,Aventura 2
+http://185.246.210.38:2200/VOD/redadventure2-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/adventure.png" group-title="24 hrs Aventura" ,Aventura 3
+http://185.246.210.38:2200/VOD/redadventure3-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/adventure.png" group-title="24 hrs Aventura" ,Aventura 4
+http://185.246.210.38:2200/VOD/redadventure4-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/adventure.png" group-title="24 hrs Aventura" ,Aventura 5
+http://185.246.210.38:2200/VOD/redadventure5-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/adventure.png" group-title="24 hrs Aventura" ,Aventura 6
+http://185.246.210.38:2200/VOD/redadventure6-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/adventure.png" group-title="24 hrs Aventura" ,Aventura 7
+http://185.246.210.38:2200/VOD/redadventure7-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/adventure.png" group-title="24 hrs Aventura" ,Aventura 8
+http://185.246.210.38:2200/VOD/redadventure8-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/adventure.png" group-title="24 hrs Aventura" ,Aventura 9
+http://185.246.210.38:2200/VOD/redadventure9-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/adventure.png" group-title="24 hrs Aventura" ,Aventura 10
+http://185.246.210.38:2200/VOD/redadventure10-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/documentary.png" group-title="24 hrs Documentarios" ,Documentarios
+http://185.246.210.38:2200/VOD/reddocumentary-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/documentary.png" group-title="24 hrs Documentarios" ,Documentarios 2
+http://185.246.210.38:2200/VOD/reddocumentary2-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/documentary.png" group-title="24 hrs Documentarios" ,Documentarios 3
+http://185.246.210.38:2200/VOD/reddocumentary3-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/documentary.png" group-title="24 hrs Documentarios" ,Documentarios 4
+http://185.246.210.38:2200/VOD/reddocumentary4-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/documentary.png" group-title="24 hrs Documentarios" ,Documentarios 5
+http://185.246.210.38:2200/VOD/reddocumentary5-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/documentary.png" group-title="24 hrs Documentarios" ,Documentarios 6
+http://185.246.210.38:2200/VOD/reddocumentary6-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/documentary.png" group-title="24 hrs Documentarios" ,Documentarios 7
+http://185.246.210.38:2200/VOD/reddocumentary7-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/documentary.png" group-title="24 hrs Documentarios" ,Documentarios 8
+http://185.246.210.38:2200/VOD/reddocumentary8-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/documentary.png" group-title="24 hrs Documentarios" ,Documentarios 9
+http://185.246.210.38:2200/VOD/reddocumentary9-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/documentary.png" group-title="24 hrs Documentarios" ,Documentarios 10
+http://185.246.210.38:2200/VOD/reddocumentary10-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/kids.png" group-title="24 hrs Kids" ,Kids
+http://185.246.210.38:2200/VOD/redkids-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/kids.png" group-title="24 hrs Kids" ,Kids 2
+http://185.246.210.38:2200/VOD/redkids2-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/kids.png" group-title="24 hrs Kids" ,Kids 3
+http://185.246.210.38:2200/VOD/redkids3-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/kids.png" group-title="24 hrs Kids" ,Kids 4
+http://185.246.210.38:2200/VOD/redkids4-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/kids.png" group-title="24 hrs Kids" ,Kids 5
+http://185.246.210.38:2200/VOD/redkids5-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/kids.png" group-title="24 hrs Kids" ,Kids 6
+http://185.246.210.38:2200/VOD/redkids6-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/kids.png" group-title="24 hrs Kids" ,Kids 7
+http://185.246.210.38:2200/VOD/redkids7-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/kids.png" group-title="24 hrs Kids" ,Kids 8
+http://185.246.210.38:2200/VOD/redkids8-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/kids.png" group-title="24 hrs Kids" ,Kids 9
+http://185.246.210.38:2200/VOD/redkids9-br/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/livevod/new-logo/kids.png" group-title="24 hrs Kids" ,Kids 10
+http://185.246.210.38:2200/VOD/redkids10-br/index.m3u8
